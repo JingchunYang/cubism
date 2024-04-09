@@ -140,7 +140,7 @@ let semiCircle;
 function preload(){
   // yellowTriangle=loadImage("")
   yellowTriangle=loadImage("images/yellowTriangle.png");
-  semiCircle=loadImage("images/SemiCircles.png");
+  semiCircle=loadImage("images/semiCircles.png");
   smallSword=loadImage("images/small_sword.png");
   bigSword=loadImage("images/big_sword.png");
 
